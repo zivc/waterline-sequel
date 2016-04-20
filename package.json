@@ -2,7 +2,10 @@
   "name": "waterline-sequel",
   "description": "A helper library for generating SQL queries from the Waterline Query Language.",
   "version": "0.2.1",
-  "author": "Cody Stoltman <particlebanana@gmail.com>",
+  "author": {
+    "name": "Cody Stoltman",
+    "email": "particlebanana@gmail.com"
+  },
   "url": "http://github.com/balderdashy/waterline-sequel",
   "keywords": [],
   "repository": {
@@ -25,5 +28,15 @@
     "sequel": "./sequel"
   },
   "license": "MIT",
-  "bugs": "https://github.com/balderdashy/waterline-sequel/issues"
+  "bugs": {
+    "url": "https://github.com/balderdashy/waterline-sequel/issues"
+  },
+  "gitHead": "b92ff8432d2667ff4439150ee7ed3e07747edbc0",
+  "readme": "Waterline-Sequel [![Build Status](https://travis-ci.org/balderdashy/waterline-sequel.svg?branch=master)](https://travis-ci.org/balderdashy/waterline-sequel)\n====================\n\nA helper library for generating SQL queries from the Waterline Query Language.\n\n### Running the tests\nSimply run `npm test`.\n",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/balderdashy/waterline-sequel#readme",
+  "_id": "waterline-sequel@0.2.1",
+  "_shasum": "b933129efb32dcb6fa6f7ceba577e837feedd91f",
+  "_from": "zivc/waterline-sequel",
+  "_resolved": "git://github.com/zivc/waterline-sequel.git#b92ff8432d2667ff4439150ee7ed3e07747edbc0"
 }
